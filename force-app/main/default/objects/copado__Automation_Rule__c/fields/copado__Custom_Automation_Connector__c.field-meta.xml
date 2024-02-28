@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <externalId>false</externalId>
     <inlineHelpText>API name of the Apex class used to map the source and automated actions payloads and parameters</inlineHelpText>
-    <label>Custom Automation Connector</label>
+    <label>Custom Automation Type (API Name)</label>
     <length>255</length>
     <required>false</required>
     <trackHistory>false</trackHistory>

@@ -4,29 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>CodeScan SCA Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
-    <layouts>
-        <layout>Static Code Analysis Violation Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <recordTypes>
-        <description></description>
-        <label></label>
-        <name>copado__CodeScan</name>
-    </recordTypes>
-    <recordTypes>
-        <description></description>
-        <label></label>
-        <name>copado__PMD</name>
-    </recordTypes>
 </CustomObjectTranslation>

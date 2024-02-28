@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>A job execution is a representation of a job template execution at a given point in time.</description>
     <externalId>false</externalId>
+    <inlineHelpText>The job Execution associated with the step</inlineHelpText>
     <label>Job Execution</label>
     <referenceTo>copado__JobExecution__c</referenceTo>
     <relationshipLabel>Job Steps</relationshipLabel>

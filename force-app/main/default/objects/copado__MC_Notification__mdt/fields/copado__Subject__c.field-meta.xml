@@ -5,6 +5,7 @@
     <description>Subject of the notiication</description>
     <externalId>false</externalId>
     <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Subject of the notiication</inlineHelpText>
     <label>Subject</label>
     <length>255</length>
     <required>true</required>

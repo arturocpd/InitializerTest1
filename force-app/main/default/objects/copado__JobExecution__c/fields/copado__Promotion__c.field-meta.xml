@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>It is a container used to deploy one or multiple user stories from one environment to another following a designated pipeline.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Lookup field to the promotion that triggered the execution.</inlineHelpText>
     <label>Promotion</label>
     <referenceTo>copado__Promotion__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

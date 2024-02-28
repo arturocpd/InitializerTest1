@@ -4,24 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Deployment Flow Step Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Fields Updated By Copado</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__EnvironmentAndPipelinePlatformMustBeSame</name>
-    </validationRules>
-    <webLinks>
-        <label></label>
-        <name>copado__Select_Branch</name>
-    </webLinks>
 </CustomObjectTranslation>

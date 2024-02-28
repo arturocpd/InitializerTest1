@@ -5,7 +5,7 @@
     <deprecated>false</deprecated>
     <description>The Test parent object which triggered the execution.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Test Parent object that trigger the execution.</inlineHelpText>
+    <inlineHelpText>The Test parent object which triggered the execution.</inlineHelpText>
     <label>Test</label>
     <referenceTo>copado__Test__c</referenceTo>
     <relationshipLabel>Results</relationshipLabel>

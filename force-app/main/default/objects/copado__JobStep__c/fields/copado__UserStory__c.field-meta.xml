@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Lookup field to the user story to which this deployment task belongs</description>
     <externalId>false</externalId>
+    <inlineHelpText>Lookup field to the user story to which this deployment task belongs</inlineHelpText>
     <label>User Story</label>
     <referenceTo>copado__User_Story__c</referenceTo>
     <relationshipLabel>Deployment Steps</relationshipLabel>

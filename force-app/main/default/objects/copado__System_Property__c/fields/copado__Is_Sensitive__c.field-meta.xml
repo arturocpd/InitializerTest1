@@ -5,7 +5,7 @@
     <deprecated>false</deprecated>
     <description>Select this checbox to hide the sensitive information.</description>
     <externalId>false</externalId>
-    <inlineHelpText>If this field is selected, the value won&apos;t be accessible to any user, and it will be securely saved. The value will remain hidden unless the field is unchecked</inlineHelpText>
+    <inlineHelpText>Select this checbox to hide the sensitive information.</inlineHelpText>
     <label>Hide Value</label>
     <trackTrending>false</trackTrending>
     <type>Checkbox</type>

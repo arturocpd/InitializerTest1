@@ -13,7 +13,7 @@
   NULL
 )</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
-    <inlineHelpText>Display how long in seconds this process took to execute.</inlineHelpText>
+    <inlineHelpText>Total duration in seconds of the job execution. This value can be used to track job performance.</inlineHelpText>
     <label>Duration (in seconds)</label>
     <precision>18</precision>
     <required>false</required>

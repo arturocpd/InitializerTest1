@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Type of the Job Step.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Defines the type of configuration required for this step.</inlineHelpText>
+    <inlineHelpText>Type of the Job Step.</inlineHelpText>
     <label>Type</label>
     <length>255</length>
     <required>false</required>

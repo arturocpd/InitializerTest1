@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Code that helps you quickly identify the issue.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Only displays when there&apos;s an error. It shows the error code to identify the issue quickly.</inlineHelpText>
+    <inlineHelpText>Code that helps you quickly identify the issue.</inlineHelpText>
     <label>Error Code</label>
     <length>255</length>
     <required>false</required>

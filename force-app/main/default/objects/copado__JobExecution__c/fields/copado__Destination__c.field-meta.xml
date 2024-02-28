@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Name of the destination environment.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Name of the destination environment.</inlineHelpText>
     <label>Destination</label>
     <referenceTo>copado__Environment__c</referenceTo>
     <relationshipLabel>Job Executions (Destination)</relationshipLabel>

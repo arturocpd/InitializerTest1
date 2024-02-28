@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>A description of the job template.</description>
     <externalId>false</externalId>
+    <inlineHelpText>A description of the job template.</inlineHelpText>
     <label>Description</label>
     <length>32768</length>
     <trackHistory>false</trackHistory>

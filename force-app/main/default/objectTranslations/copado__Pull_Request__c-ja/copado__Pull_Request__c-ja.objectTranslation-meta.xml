@@ -4,16 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Pull Request Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Other Information</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

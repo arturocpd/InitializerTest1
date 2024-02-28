@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Type of Job Template</description>
     <externalId>false</externalId>
+    <inlineHelpText>Type of Job Template</inlineHelpText>
     <label>Type</label>
     <required>true</required>
     <trackHistory>false</trackHistory>

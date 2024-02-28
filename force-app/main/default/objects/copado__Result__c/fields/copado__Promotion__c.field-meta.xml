@@ -5,7 +5,7 @@
     <deprecated>false</deprecated>
     <description>Lookup field to the promotion that triggered the result.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Promotion Parent object that trigger the execution.</inlineHelpText>
+    <inlineHelpText>Lookup field to the promotion that triggered the result.</inlineHelpText>
     <label>Promotion</label>
     <referenceTo>copado__Promotion__c</referenceTo>
     <relationshipLabel>Results</relationshipLabel>

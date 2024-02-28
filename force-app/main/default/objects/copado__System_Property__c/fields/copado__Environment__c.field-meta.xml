@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Lookup field to the environment which is linked to the system property.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Lookup field to the environment which is linked to the system property.</inlineHelpText>
     <label>Environment</label>
     <referenceTo>copado__Environment__c</referenceTo>
     <relationshipLabel>System Properties</relationshipLabel>

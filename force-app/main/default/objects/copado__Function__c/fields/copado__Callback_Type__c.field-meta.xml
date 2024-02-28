@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Type of Callback selected for the function.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Trigger a Flow or Apex class each time a function execution completes. This trigger happens when the function result status changes to Success or Failed.</inlineHelpText>
+    <inlineHelpText>Type of Callback selected for the function.</inlineHelpText>
     <label>Callback Type</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

@@ -4,36 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Function Layout</layout>
-        <sections>
-            <label>コールバック</label>
-            <section>Callback</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Configuration</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <quickActions>
-        <label></label>
-        <name>copado__Clone_Function</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>copado__Execute_Function</name>
-    </quickActions>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Function_Name_must_Be_Alpha_Numeric</name>
-    </validationRules>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Script_must_contain_a_value</name>
-    </validationRules>
 </CustomObjectTranslation>

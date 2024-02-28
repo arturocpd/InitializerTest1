@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>Picklist field that defines the size of the worker. The available options are S, M, L, and XL.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Picklist field that defines the size of the worker. The available options are S, M, L, and XL.</inlineHelpText>
     <label>Worker Size</label>
     <required>true</required>
     <trackTrending>false</trackTrending>

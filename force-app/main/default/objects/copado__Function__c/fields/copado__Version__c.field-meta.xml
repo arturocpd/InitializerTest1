@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>The version of the function being executed.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Version of the function.</inlineHelpText>
     <label>Version</label>
     <length>255</length>
     <required>false</required>

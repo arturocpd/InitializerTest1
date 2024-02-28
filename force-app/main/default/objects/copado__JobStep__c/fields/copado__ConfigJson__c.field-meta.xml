@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>Config Json stores Job step related configuration information, for example in case of manual step it contains manual task assignee and instructions.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Config Json stores Job step related configuration information, for example in case of manual step it contains manual task assignee and instructions.</inlineHelpText>
     <label>ConfigJson</label>
     <length>131072</length>
     <trackTrending>false</trackTrending>

@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Date and time when the job started.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Date time when the job started.</inlineHelpText>
+    <inlineHelpText>Date and time when the job started.</inlineHelpText>
     <label>Start Time</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>

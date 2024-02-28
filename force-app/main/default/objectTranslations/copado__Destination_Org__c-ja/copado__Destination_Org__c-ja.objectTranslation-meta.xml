@@ -4,16 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Destination Org Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label>進捗</label>
-            <section>Progress</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

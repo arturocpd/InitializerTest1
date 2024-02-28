@@ -31,16 +31,21 @@
         <label>Publish Package Version</label>
     </customValue>
     <customValue>
-        <fullName>PackageDistribution</fullName>
+        <fullName>ImportPackage</fullName>
         <default>false</default>
-        <isActive>false</isActive>
-        <label>PackageDistribution</label>
+        <label>Import Package</label>
     </customValue>
     <customValue>
         <fullName>PackageCreation</fullName>
         <default>false</default>
         <isActive>false</isActive>
         <label>PackageCreation</label>
+    </customValue>
+    <customValue>
+        <fullName>PackageDistribution</fullName>
+        <default>false</default>
+        <isActive>false</isActive>
+        <label>PackageDistribution</label>
     </customValue>
     <masterLabel>Copado Actions</masterLabel>
     <sorted>false</sorted>

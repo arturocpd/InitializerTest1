@@ -4,28 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <fieldSets>
-        <label></label>
-        <name>copado__Copado_User_Story_Metadata_Columns</name>
-    </fieldSets>
-    <fieldSets>
-        <label></label>
-        <name>copado__MC_Promotion_User_Story_Metadata</name>
-    </fieldSets>
-    <fieldSets>
-        <label></label>
-        <name>copado__User_Story_Bundle_Metadata</name>
-    </fieldSets>
-    <layouts>
-        <layout>User Story Metadata Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>File Details</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

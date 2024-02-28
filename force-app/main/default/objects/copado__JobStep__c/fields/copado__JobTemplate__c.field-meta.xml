@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Name of the job template which initiates the execution of the job step.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Name of the job template which initiates the execution of the job step.</inlineHelpText>
     <label>Job Template</label>
     <referenceTo>copado__JobTemplate__c</referenceTo>
     <relationshipLabel>Job Steps</relationshipLabel>

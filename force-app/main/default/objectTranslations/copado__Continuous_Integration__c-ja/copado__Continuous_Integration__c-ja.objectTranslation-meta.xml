@@ -4,28 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <fieldSets>
-        <label></label>
-        <name>copado__CustomFields</name>
-    </fieldSets>
-    <layouts>
-        <layout>Continuous Integration Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label>宛先環境(To)</label>
-            <section>Destination environment</section>
-        </sections>
-        <sections>
-            <label>プレ/ポスト-ビルドオートメーション</label>
-            <section>Pre/Post-Build Automation</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <sharingReasons>
-        <label></label>
-        <name>copado__ContinuousIntegrationPermission</name>
-    </sharingReasons>
 </CustomObjectTranslation>

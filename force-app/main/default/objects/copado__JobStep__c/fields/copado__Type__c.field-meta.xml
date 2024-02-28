@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Type of the Job Step.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Defines the behaviour this step will have when executed.</inlineHelpText>
+    <inlineHelpText>Type of the Job Step.</inlineHelpText>
     <label>Behaviour</label>
     <required>true</required>
     <trackTrending>false</trackTrending>

@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <externalId>false</externalId>
     <inlineHelpText>API name of the flow used to perform more specific operations, like updating records status, creating other records, etc.</inlineHelpText>
-    <label>Automated Action Callback</label>
+    <label>Flow or Class API Name</label>
     <length>255</length>
     <required>false</required>
     <trackHistory>false</trackHistory>

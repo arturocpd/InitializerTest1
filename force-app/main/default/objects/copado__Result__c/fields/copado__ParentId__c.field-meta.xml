@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>15-digit Id of the record that triggered the process that generated the result.</description>
     <externalId>false</externalId>
-    <inlineHelpText>15-digit ID of the record that triggered the process that generated the result. (e.g. A Job Step) We use a text field because Salesforce only allows one type in lookup fields.</inlineHelpText>
+    <inlineHelpText>15-digit Id of the record that triggered the process that generated the result.</inlineHelpText>
     <label>Context ID</label>
     <length>18</length>
     <required>false</required>

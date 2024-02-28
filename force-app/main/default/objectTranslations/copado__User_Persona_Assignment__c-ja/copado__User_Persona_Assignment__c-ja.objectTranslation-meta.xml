@@ -4,32 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>User Persona Assignment Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label>ステータスの詳細</label>
-            <section>Status Details</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Permanent_no_Dates</name>
-    </validationRules>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Start_End_date_illogicalness</name>
-    </validationRules>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Start_date_issue</name>
-    </validationRules>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Temporary_with_Dates</name>
-    </validationRules>
 </CustomObjectTranslation>

@@ -4,20 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Compliance Rule Criteria Layout</layout>
-        <sections>
-            <label>基準</label>
-            <section>Criteria</section>
-        </sections>
-        <sections>
-            <label>基準の詳細</label>
-            <section>Criteria Details</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

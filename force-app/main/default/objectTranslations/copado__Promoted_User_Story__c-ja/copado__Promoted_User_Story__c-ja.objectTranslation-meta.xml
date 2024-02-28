@@ -4,16 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <fieldSets>
-        <label></label>
-        <name>copado__Promoted_User_Story_Datatable</name>
-    </fieldSets>
-    <layouts>
-        <layout>Promoted User Story Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

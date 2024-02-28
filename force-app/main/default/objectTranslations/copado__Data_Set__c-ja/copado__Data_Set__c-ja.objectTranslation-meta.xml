@@ -4,36 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Data Set Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>General Information</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Last File Generation</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <quickActions>
-        <label></label>
-        <name>copado__Deploy_Data_Set</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>copado__Generate_Data_Set</name>
-    </quickActions>
-    <quickActions>
-        <label></label>
-        <name>copado__Remove_File_Versions</name>
-    </quickActions>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Prevent_change_Data_Template</name>
-    </validationRules>
 </CustomObjectTranslation>

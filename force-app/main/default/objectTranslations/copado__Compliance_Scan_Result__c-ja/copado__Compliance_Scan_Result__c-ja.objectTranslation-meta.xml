@@ -4,34 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <fieldSets>
-        <label></label>
-        <name>copado__Compliance_Result_Tab</name>
-    </fieldSets>
-    <layouts>
-        <layout>Compliance Scan Result Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label>新セクション</label>
-            <section>New Section</section>
-        </sections>
-        <sections>
-            <label>関連</label>
-            <section>Related To</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <recordTypes>
-        <description></description>
-        <label></label>
-        <name>copado__Copado</name>
-    </recordTypes>
-    <recordTypes>
-        <description></description>
-        <label></label>
-        <name>copado__Other</name>
-    </recordTypes>
 </CustomObjectTranslation>

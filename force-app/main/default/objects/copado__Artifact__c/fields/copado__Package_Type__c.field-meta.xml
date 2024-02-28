@@ -17,16 +17,6 @@
                 <default>true</default>
                 <label>Unlocked</label>
             </value>
-            <value>
-                <fullName>Second-Generation Package</fullName>
-                <default>false</default>
-                <label>Second-Generation Package</label>
-            </value>
-            <value>
-                <fullName>First-Generation Package</fullName>
-                <default>false</default>
-                <label>First-Generation Package</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>

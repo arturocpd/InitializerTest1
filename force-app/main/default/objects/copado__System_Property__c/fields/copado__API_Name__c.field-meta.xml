@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>This is the unique name of the system property which is used as a reference in dynamic expressions.</description>
     <externalId>false</externalId>
+    <inlineHelpText>This is the unique name of the system property which is used as a reference in dynamic expressions.</inlineHelpText>
     <label>API Name</label>
     <length>255</length>
     <required>true</required>

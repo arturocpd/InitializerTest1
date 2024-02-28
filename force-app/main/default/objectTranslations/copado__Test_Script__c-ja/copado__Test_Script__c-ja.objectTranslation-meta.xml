@@ -4,20 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Test Script Layout</layout>
-        <sections>
-            <label></label>
-            <section>Additional Information</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <webLinks>
-        <label></label>
-        <name>copado__Add_Test_Script_Steps</name>
-    </webLinks>
 </CustomObjectTranslation>

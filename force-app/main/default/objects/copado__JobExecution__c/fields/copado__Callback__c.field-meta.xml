@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>In this field, you can define an action to be executed once the function runs. This action must be an Apex class that implements copado.JobExecutionCallback interface.</description>
     <externalId>false</externalId>
-    <inlineHelpText>An apex class that must implement copado.JobExecutionCallback interface.</inlineHelpText>
+    <inlineHelpText>In this field, you can define an action to be executed once the function runs. This action must be an Apex class that implements copado.JobExecutionCallback interface.</inlineHelpText>
     <label>Callback</label>
     <length>255</length>
     <required>false</required>

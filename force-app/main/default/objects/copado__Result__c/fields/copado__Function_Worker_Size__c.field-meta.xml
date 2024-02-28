@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>Computational resources available for function(Function credit limit is linked to size),  &apos;S&apos; =&gt; 1, &apos;M&apos; =&gt; 2, &apos;L&apos; =&gt; 4, &apos;XL&apos; =&gt; 8</description>
     <externalId>false</externalId>
+    <inlineHelpText>Computational resources available for a function.</inlineHelpText>
     <label>Function Worker Size</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>

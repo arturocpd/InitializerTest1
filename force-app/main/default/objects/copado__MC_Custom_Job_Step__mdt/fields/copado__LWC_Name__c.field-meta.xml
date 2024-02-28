@@ -5,6 +5,7 @@
     <description>Name of LWC/Aura component to render while configuring the Custom Job step</description>
     <externalId>false</externalId>
     <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Name of LWC/Aura component to render while configuring the Custom Job step</inlineHelpText>
     <label>LWC Name</label>
     <length>255</length>
     <required>false</required>

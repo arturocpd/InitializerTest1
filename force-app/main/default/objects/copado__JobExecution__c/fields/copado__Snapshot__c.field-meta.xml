@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>It is a full backup of the selected metadata types into a repository/branch.</description>
     <externalId>false</externalId>
+    <inlineHelpText>It is a full backup of the selected metadata types into a repository/branch.</inlineHelpText>
     <label>Snapshot</label>
     <referenceTo>copado__Git_Backup__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

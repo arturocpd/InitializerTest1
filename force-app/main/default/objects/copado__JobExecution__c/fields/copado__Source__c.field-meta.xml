@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Name of the source environment.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Name of the source environment.</inlineHelpText>
     <label>Source</label>
     <referenceTo>copado__Environment__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

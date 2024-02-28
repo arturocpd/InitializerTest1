@@ -5,6 +5,7 @@
     <description>Description of the Notification</description>
     <externalId>false</externalId>
     <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>Description of the Notification</inlineHelpText>
     <label>Description</label>
     <length>255</length>
     <required>false</required>

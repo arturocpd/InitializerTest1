@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>The version of the Job Template.</description>
     <externalId>false</externalId>
+    <inlineHelpText>The version of the Job Template.</inlineHelpText>
     <label>Version</label>
     <precision>18</precision>
     <required>true</required>

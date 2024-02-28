@@ -4,31 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <layouts>
-        <layout>Team Dependency Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-    </layouts>
-    <layouts>
-        <layout>User Story Dependency Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label>成果物</label>
-            <section>Deliverable</section>
-        </sections>
-        <sections>
-            <label>ノート</label>
-            <section>Notes</section>
-        </sections>
-        <sections>
-            <label>チーム依存関係（オプション）</label>
-            <section>Team Dependency (Optional)</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
 </CustomObjectTranslation>

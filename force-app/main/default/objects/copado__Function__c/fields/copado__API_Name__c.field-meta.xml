@@ -5,7 +5,7 @@
     <deprecated>false</deprecated>
     <description>Provide a unique API name.</description>
     <externalId>true</externalId>
-    <inlineHelpText>Unique name that identifies this function. The function result records will contain this API Name in the job type field for filtering these results in reports and dashboards.</inlineHelpText>
+    <inlineHelpText>Provide a unique API name.</inlineHelpText>
     <label>API Name</label>
     <length>255</length>
     <required>true</required>

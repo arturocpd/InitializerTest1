@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Field used to link an external result to the Result record.</description>
     <externalId>false</externalId>
-    <inlineHelpText>Used if this execution result summary links to other result summary in any other system than Copado.</inlineHelpText>
+    <inlineHelpText>Field used to link an external result to the Result record.</inlineHelpText>
     <label>External Result Link</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>

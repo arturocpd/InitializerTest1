@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>Used to define the order of execution in the context of User Story Deployment</description>
     <externalId>false</externalId>
+    <inlineHelpText>Used to define the order of execution in the context of User Story Deployment</inlineHelpText>
     <label>Execution Sequence</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

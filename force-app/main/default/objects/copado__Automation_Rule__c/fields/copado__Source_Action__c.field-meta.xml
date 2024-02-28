@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <externalId>false</externalId>
     <inlineHelpText>Action that will trigger the automation</inlineHelpText>
-    <label>Source Action</label>
+    <label>Trigger Action</label>
     <required>false</required>
     <trackHistory>false</trackHistory>
     <trackTrending>false</trackTrending>

@@ -6,5 +6,5 @@
     <columns>Description</columns>
     <columns>Status</columns>
     <filterScope>Everything</filterScope>
-    <label>Todos los incidentes (Predeterminados)</label>
+    <label>All Incidents (Default)</label>
 </ListView>

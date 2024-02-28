@@ -8,7 +8,6 @@
     <customButtons>copado__Add_Metadata</customButtons>
     <customButtons>copado__Apex_Test</customButtons>
     <customButtons>copado__Run_Static_Code_Analysis</customButtons>
-    <customButtons>copado__Add_Commits</customButtons>
     <customButtons>copado__Manage_Selenium_Tests</customButtons>
     <customButtons>copado__Run_Compliance_Scan</customButtons>
     <customButtons>copado__Pull_Request</customButtons>
@@ -58,10 +57,6 @@
                 <behavior>Readonly</behavior>
                 <field>copado__Platform__c</field>
             </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copado__Base_Branch__c</field>
-            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
@@ -83,18 +78,6 @@
             <layoutItems>
                 <behavior>Edit</behavior>
                 <field>RecordTypeId</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copadoconnect__External_ID__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copadoconnect__Last_Synced_Date__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copadoconnect__Connect_log__c</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsTopToBottom</style>
@@ -138,14 +121,6 @@
             <layoutItems>
                 <behavior>Readonly</behavior>
                 <field>copado__Progress_Status__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copado__Developer__c</field>
-            </layoutItems>
-            <layoutItems>
-                <behavior>Edit</behavior>
-                <field>copado__Is_Bundle__c</field>
             </layoutItems>
         </layoutColumns>
         <style>TwoColumnsLeftToRight</style>
@@ -427,9 +402,19 @@
     <platformActionList>
         <actionListContext>Record</actionListContext>
         <platformActionListItems>
-            <actionName>copado__Add_Metadata</actionName>
+            <actionName>Edit</actionName>
+            <actionType>StandardButton</actionType>
+            <sortOrder>0</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>copado__Commit_Files</actionName>
             <actionType>CustomButton</actionType>
-            <sortOrder>7</sortOrder>
+            <sortOrder>1</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>copado__Open_Org</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>2</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>copado__Ready_for_Promotion</actionName>
@@ -450,6 +435,11 @@
             <actionName>Submit</actionName>
             <actionType>StandardButton</actionType>
             <sortOrder>6</sortOrder>
+        </platformActionListItems>
+        <platformActionListItems>
+            <actionName>copado__Add_Metadata</actionName>
+            <actionType>CustomButton</actionType>
+            <sortOrder>7</sortOrder>
         </platformActionListItems>
         <platformActionListItems>
             <actionName>copado__Apex_Test</actionName>
@@ -510,21 +500,6 @@
             <actionName>copado__Add_Apex_Tests</actionName>
             <actionType>CustomButton</actionType>
             <sortOrder>19</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>copado__Open_Org</actionName>
-            <actionType>CustomButton</actionType>
-            <sortOrder>2</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>Edit</actionName>
-            <actionType>StandardButton</actionType>
-            <sortOrder>0</sortOrder>
-        </platformActionListItems>
-        <platformActionListItems>
-            <actionName>copado__Commit_Files</actionName>
-            <actionType>CustomButton</actionType>
-            <sortOrder>1</sortOrder>
         </platformActionListItems>
     </platformActionList>
     <relatedLists>
@@ -625,6 +600,7 @@
         <sortOrder>Desc</sortOrder>
     </relatedLists>
     <relatedLists>
+        <excludeButtons>New</excludeButtons>
         <fields>NAME</fields>
         <fields>copado__State__c</fields>
         <fields>copado__Changed_Files__c</fields>
@@ -655,14 +631,13 @@
     <relatedLists>
         <excludeButtons>New</excludeButtons>
         <fields>NAME</fields>
-        <fields>copado__Status__c</fields>
         <fields>copado__Promotion__c.NAME</fields>
-        <fields>copado__Promotion__c.copado__Project__c</fields>
+        <fields>copado__Promotion__c.copado__Status__c</fields>
+        <fields>copado__Status__c</fields>
         <fields>copado__Promotion__c.copado__Release__c</fields>
         <fields>copado__Promotion__c.copado__Source_Org_Credential__c</fields>
         <fields>copado__Promotion__c.copado__Destination_Org_Credential__c</fields>
         <fields>copado__Promotion__c.copado__Back_Promotion__c</fields>
-        <fields>copado__Promotion__c.copado__Status__c</fields>
         <relatedList>copado__Promoted_User_Story__c.copado__User_Story__c</relatedList>
         <sortField>copado__Promotion__c.NAME</sortField>
         <sortOrder>Desc</sortOrder>
@@ -743,6 +718,7 @@
     <relatedLists>
         <fields>NAME</fields>
         <fields>copado__Provider_User_Story__c</fields>
+        <fields>copado__Relationship_Type__c</fields>
         <fields>copado__Parent_User_Story_Status__c</fields>
         <fields>CREATEDBY_USER</fields>
         <relatedList>copado__Team_Dependency__c.copado__Dependent_User_Story__c</relatedList>
@@ -750,6 +726,7 @@
     <relatedLists>
         <fields>NAME</fields>
         <fields>copado__Dependent_User_Story__c</fields>
+        <fields>copado__Relationship_Type__c</fields>
         <fields>copado__Child_User_Story_Status__c</fields>
         <fields>CREATEDBY_USER</fields>
         <relatedList>copado__Team_Dependency__c.copado__Provider_User_Story__c</relatedList>
@@ -771,7 +748,7 @@
     <showRunAssignmentRulesCheckbox>false</showRunAssignmentRulesCheckbox>
     <showSubmitAndAttachButton>false</showSubmitAndAttachButton>
     <summaryLayout>
-        <masterLabel>00h7Q000005jW9T</masterLabel>
+        <masterLabel>00h2o00000l6D6Z</masterLabel>
         <sizeX>3</sizeX>
         <sizeY>1</sizeY>
         <summaryLayoutItems>

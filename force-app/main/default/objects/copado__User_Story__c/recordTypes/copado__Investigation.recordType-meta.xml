@@ -4,25 +4,6 @@
     <active>true</active>
     <label>Investigation</label>
     <picklistValues>
-        <picklist>cmcSf__Apex_Test_Level__c</picklist>
-        <values>
-            <fullName>No Test Run</fullName>
-            <default>true</default>
-        </values>
-        <values>
-            <fullName>Run All Tests</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Run Local Tests</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Run Specified Tests</fullName>
-            <default>false</default>
-        </values>
-    </picklistValues>
-    <picklistValues>
         <picklist>copado__Acceptance_Criteria_Status__c</picklist>
         <values>
             <fullName>Accepted</fullName>
@@ -445,10 +426,6 @@
         </values>
         <values>
             <fullName>Completed</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Done</fullName>
             <default>false</default>
         </values>
         <values>

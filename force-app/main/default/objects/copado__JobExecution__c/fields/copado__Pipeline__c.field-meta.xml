@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>Lookup field to the pipeline where this job execution applies.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Lookup field to the pipeline where this job execution applies.</inlineHelpText>
     <label>Pipeline</label>
     <referenceTo>copado__Deployment_Flow__c</referenceTo>
     <relationshipLabel>Job Executions</relationshipLabel>

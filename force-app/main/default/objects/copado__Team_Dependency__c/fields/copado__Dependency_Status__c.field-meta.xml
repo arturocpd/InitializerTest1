@@ -3,6 +3,7 @@
     <fullName>copado__Dependency_Status__c</fullName>
     <deprecated>false</deprecated>
     <externalId>false</externalId>
+    <inlineHelpText>Status of the dependency between two User Stories. Example: Prioritized, Committed, or Completed. You can manually edit this field. However, it will be automatically marked as Completed when you mark the Parent User Story to Completed.</inlineHelpText>
     <label>Dependency Status</label>
     <required>false</required>
     <trackHistory>false</trackHistory>

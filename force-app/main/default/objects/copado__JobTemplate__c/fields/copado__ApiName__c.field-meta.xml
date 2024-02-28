@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>API name of the job that triggered the result.</description>
     <externalId>true</externalId>
+    <inlineHelpText>API name of the job that triggered the result.</inlineHelpText>
     <label>API Name</label>
     <length>255</length>
     <required>false</required>

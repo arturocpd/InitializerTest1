@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>Provide the script with the commands you would like the function to execute.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Provide the script with the commands you would like the function to execute.</inlineHelpText>
     <label>Script</label>
     <length>131072</length>
     <trackTrending>false</trackTrending>

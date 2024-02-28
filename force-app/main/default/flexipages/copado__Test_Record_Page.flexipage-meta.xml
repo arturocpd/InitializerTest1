@@ -264,6 +264,20 @@
                 </visibilityRule>
             </componentInstance>
         </itemInstances>
+        <itemInstances>
+            <componentInstance>
+                <componentInstanceProperties>
+                    <name>locationId</name>
+                    <value>ATF.Test.ResultsViewer</value>
+                </componentInstanceProperties>
+                <componentInstanceProperties>
+                    <name>requiredInformation</name>
+                    <value>Test Tool</value>
+                </componentInstanceProperties>
+                <componentName>copado:dynamicUISectionContainer</componentName>
+                <identifier>c_dynamicUISectionContainer</identifier>
+            </componentInstance>
+        </itemInstances>
         <name>Facet-yaqumdrdwv</name>
         <type>Facet</type>
     </flexiPageRegions>

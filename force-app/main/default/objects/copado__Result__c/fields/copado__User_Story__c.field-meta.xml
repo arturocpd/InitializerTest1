@@ -5,7 +5,7 @@
     <deprecated>false</deprecated>
     <description>Lookup field to the user story that triggered the result.</description>
     <externalId>false</externalId>
-    <inlineHelpText>User Story Parent object that trigger the execution. (a commit for example)</inlineHelpText>
+    <inlineHelpText>Lookup field to the user story that triggered the result.</inlineHelpText>
     <label>User Story</label>
     <referenceTo>copado__User_Story__c</referenceTo>
     <relationshipLabel>Result</relationshipLabel>

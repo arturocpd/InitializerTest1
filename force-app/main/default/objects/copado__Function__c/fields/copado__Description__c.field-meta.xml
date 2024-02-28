@@ -4,6 +4,7 @@
     <deprecated>false</deprecated>
     <description>Description of the function.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Description of the function.</inlineHelpText>
     <label>Description</label>
     <required>false</required>
     <trackTrending>false</trackTrending>

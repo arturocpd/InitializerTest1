@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>Field automatically updated by Copado that is used to link some processes together.</description>
     <externalId>false</externalId>
-    <inlineHelpText>For now only internally used by Copado. It links some Copado processes together.</inlineHelpText>
+    <inlineHelpText>Field automatically updated by Copado that is used to link some processes together.</inlineHelpText>
     <label>Apex Callback</label>
     <length>255</length>
     <required>false</required>

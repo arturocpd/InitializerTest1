@@ -4,39 +4,5 @@
         <plural>false</plural>
         <value></value>
     </caseValues>
-    <fieldSets>
-        <label></label>
-        <name>copado__CBM_Fields</name>
-    </fieldSets>
-    <layouts>
-        <layout>Git Org Commit Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label></label>
-            <section>Details</section>
-        </sections>
-        <sections>
-            <label>メタデータの選択</label>
-            <section>MetaData Selections</section>
-        </sections>
-    </layouts>
-    <layouts>
-        <layout>Snapshot Commit Layout</layout>
-        <sections>
-            <label></label>
-            <section>Custom Links</section>
-        </sections>
-        <sections>
-            <label>メタデータの選択</label>
-            <section>MetaData Selections</section>
-        </sections>
-    </layouts>
     <nameFieldLabel></nameFieldLabel>
-    <validationRules>
-        <errorMessage></errorMessage>
-        <name>copado__Commit_Id_Status_Complete</name>
-    </validationRules>
 </CustomObjectTranslation>

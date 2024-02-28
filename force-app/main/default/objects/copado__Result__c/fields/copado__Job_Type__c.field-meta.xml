@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>API name of the job that triggered the result. This information can be used for reporting purposes.</description>
     <externalId>false</externalId>
-    <inlineHelpText>API name of the parent Job. Used for reporting purposes mainly.</inlineHelpText>
+    <inlineHelpText>API name of the job that triggered the result. This information can be used for reporting purposes.</inlineHelpText>
     <label>Job API Name</label>
     <required>true</required>
     <trackFeedHistory>false</trackFeedHistory>

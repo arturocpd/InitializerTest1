@@ -5,6 +5,7 @@
     <deprecated>false</deprecated>
     <description>The type of Copado function such as Custom or Standard.</description>
     <externalId>false</externalId>
+    <inlineHelpText>Type of Copado function.</inlineHelpText>
     <label>Type</label>
     <required>true</required>
     <trackTrending>false</trackTrending>

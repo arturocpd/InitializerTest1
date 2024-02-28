@@ -5,6 +5,7 @@
     <externalId>false</externalId>
     <formula>copado__Story_Points_Other__c + copado__Planned_Points_Other__c</formula>
     <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <inlineHelpText>Sum of Planned Points and Planned Points Other. Use this field along with Planned Points Other if you need to split your User Story effort estimation among different scopes.</inlineHelpText>
     <label>Total Planned Points</label>
     <precision>18</precision>
     <required>false</required>

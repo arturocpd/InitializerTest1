@@ -12,14 +12,9 @@
         <valueSetDefinition>
             <sorted>false</sorted>
             <value>
-                <fullName>None</fullName>
+                <fullName>Manual Tests</fullName>
                 <default>false</default>
-                <label>None</label>
-            </value>
-            <value>
-                <fullName>Copado Robotic Testing</fullName>
-                <default>true</default>
-                <label>Copado Robotic Testing</label>
+                <label>Manual Tests</label>
             </value>
         </valueSetDefinition>
     </valueSet>

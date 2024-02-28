@@ -5,6 +5,7 @@
     <description>This is the body template of the notification</description>
     <externalId>false</externalId>
     <fieldManageability>DeveloperControlled</fieldManageability>
+    <inlineHelpText>This is the body template of the notification</inlineHelpText>
     <label>Template</label>
     <length>131072</length>
     <type>LongTextArea</type>

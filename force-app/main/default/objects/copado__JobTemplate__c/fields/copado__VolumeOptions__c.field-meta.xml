@@ -4,7 +4,7 @@
     <deprecated>false</deprecated>
     <description>A JSON containing transaction and volume options.</description>
     <externalId>false</externalId>
-    <inlineHelpText>A JSON containing transaction and volume options</inlineHelpText>
+    <inlineHelpText>In this field, you can introduce a list of JSON options with the configuration for the volumes used in every new job execution.</inlineHelpText>
     <label>VolumeOptions</label>
     <length>32768</length>
     <trackHistory>false</trackHistory>

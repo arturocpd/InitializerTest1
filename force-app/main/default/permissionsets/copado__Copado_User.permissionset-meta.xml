@@ -1657,10 +1657,6 @@
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
-        <apexClass>copado__MC_MassBackPromoteBatch</apexClass>
-        <enabled>true</enabled>
-    </classAccesses>
-    <classAccesses>
         <apexClass>copado__ManageEnvVarsExt</apexClass>
         <enabled>true</enabled>
     </classAccesses>
@@ -2090,6 +2086,10 @@
     </classAccesses>
     <classAccesses>
         <apexClass>copado__PromotionEditExtension</apexClass>
+        <enabled>true</enabled>
+    </classAccesses>
+    <classAccesses>
+        <apexClass>copado__PromotionJobExecutionsCtrl</apexClass>
         <enabled>true</enabled>
     </classAccesses>
     <classAccesses>
@@ -4947,6 +4947,11 @@
     </fieldPermissions>
     <fieldPermissions>
         <editable>true</editable>
+        <field>copado__Environment__c.copado__Run_specified_tests__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>copado__Environment__c.copado__Type__c</field>
         <readable>true</readable>
     </fieldPermissions>
@@ -5783,6 +5788,11 @@
     <fieldPermissions>
         <editable>true</editable>
         <field>copado__Pull_Request__c.copado__Request_Number__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
+        <field>copado__Pull_Request__c.copado__Requested_Reviewers_Long__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>
@@ -6908,6 +6918,11 @@
     <fieldPermissions>
         <editable>false</editable>
         <field>copado__System_Property__c.copado__Is_Global__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>false</editable>
+        <field>copado__System_Property__c.copado__Is_Public__c</field>
         <readable>true</readable>
     </fieldPermissions>
     <fieldPermissions>

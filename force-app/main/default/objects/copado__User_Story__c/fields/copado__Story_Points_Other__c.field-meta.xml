@@ -3,6 +3,7 @@
     <fullName>copado__Story_Points_Other__c</fullName>
     <deprecated>false</deprecated>
     <externalId>false</externalId>
+    <inlineHelpText>The estimated effort your team plans to allocate on implementing, reviewing, testing, and documenting the User Story.</inlineHelpText>
     <label>Planned Points</label>
     <precision>3</precision>
     <required>false</required>

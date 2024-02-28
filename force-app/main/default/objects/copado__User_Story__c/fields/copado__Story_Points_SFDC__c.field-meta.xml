@@ -3,6 +3,7 @@
     <fullName>copado__Story_Points_SFDC__c</fullName>
     <deprecated>false</deprecated>
     <externalId>false</externalId>
+    <inlineHelpText>The actual effort the team put into the implementation, reviews, testing, and documentation of the User Story.</inlineHelpText>
     <label>Actual Points</label>
     <precision>3</precision>
     <required>false</required>

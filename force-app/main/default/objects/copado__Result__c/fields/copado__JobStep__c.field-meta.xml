@@ -5,7 +5,7 @@
     <deprecated>false</deprecated>
     <description>When this result is the outcome of a Job Step, that is executed as part of a Job Template, this field points to the Job Step. (note that Job Step and Function can be populated at the same time).</description>
     <externalId>false</externalId>
-    <inlineHelpText>When this result is the outcome of a Job Step, that is executed as part of a Job Template, this fields points to the Job Step. (note that Job Step and Function can be populated at the same time)</inlineHelpText>
+    <inlineHelpText>When this result is the outcome of a Job Step, that is executed as part of a Job Template, this field points to the Job Step. (note that Job Step and Function can be populated at the same time).</inlineHelpText>
     <label>Job Step</label>
     <referenceTo>copado__JobStep__c</referenceTo>
     <relationshipLabel>Results</relationshipLabel>

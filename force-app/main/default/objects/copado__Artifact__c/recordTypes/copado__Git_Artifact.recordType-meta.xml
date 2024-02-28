@@ -7,14 +7,6 @@
     <picklistValues>
         <picklist>copado__Package_Type__c</picklist>
         <values>
-            <fullName>First-Generation Package</fullName>
-            <default>false</default>
-        </values>
-        <values>
-            <fullName>Second-Generation Package</fullName>
-            <default>false</default>
-        </values>
-        <values>
             <fullName>Unlocked</fullName>
             <default>true</default>
         </values>

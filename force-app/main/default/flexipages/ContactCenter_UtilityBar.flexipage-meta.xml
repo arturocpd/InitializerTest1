@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <FlexiPage xmlns="http://soap.sforce.com/2006/04/metadata">
-    <description>La barra de utilidad predeterminada para la aplicación ContactCenter.</description>
+    <description>The default utility bar for the ContactCenter application.</description>
     <flexiPageRegions>
         <itemInstances>
             <componentInstance>
@@ -23,7 +23,7 @@
         <name>utilityItems</name>
         <type>Region</type>
     </flexiPageRegions>
-    <masterLabel>Barra de utilidad de aplicación ContactCenter</masterLabel>
+    <masterLabel>ContactCenter App Utility Bar</masterLabel>
     <template>
         <name>one:utilityBarTemplateDesktop</name>
     </template>

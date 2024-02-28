@@ -21,16 +21,6 @@
                 <default>false</default>
                 <label>Other</label>
             </value>
-            <value>
-                <fullName>SFDX</fullName>
-                <default>false</default>
-                <label>SFDX</label>
-            </value>
-            <value>
-                <fullName>Mulesoft</fullName>
-                <default>false</default>
-                <label>Mulesoft</label>
-            </value>
         </valueSetDefinition>
     </valueSet>
 </CustomField>
